@@ -1,0 +1,26 @@
+[{
+    "company_name":"TCS",
+    "date":ISODate("2024-06-25"),
+    "students_appeared":"Sachin,Monisha,Ram,Madhu,Sanjith"
+},
+{
+    "company_name":"CTS",
+    "date":ISODate("2024-7-16"),
+    "students_appeared":"Sachin,Monisha,Ram,Madhu,Sanjith"
+},
+{
+    "company_name":"Wipro",
+    "date":ISODate("2024-8-27"),
+    "students_appeared":"Nivetha,Sachin,Sethu,Madhu"
+
+},
+{
+    "company_name":"HCL",
+    "date":ISODate("2024-9-15"),
+    "students_appeared":"Sachin,Monisha,Ram,Madhu,Sanjith"
+},
+{
+    "company_name":"Zen",
+    "date":ISODate("2024-9-25"),
+    "students_appeared":"Nivetha,Sachin,Sethu,Madhu"
+}]
